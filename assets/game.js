@@ -63,7 +63,7 @@ function winGame() {
     if (currentScore === randNum) 
     {
         $(".winloss").text("You Won!");
-        
+        $(".winloss").css("background-color", "green");
     // A win adds 1 to the record
         win++; 
         $("#wins").text(win);
