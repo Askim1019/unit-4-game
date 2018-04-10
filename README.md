@@ -11,4 +11,4 @@ The code to construct the game consists of:
 - JavaScript
 - jQuery
 
-![alt text] (https://i.imgur.com/Kl9GvaZ.png "Crystal Collector Game")
+![alt text](https://i.imgur.com/Kl9GvaZ.png "Crystal Collector Game")
